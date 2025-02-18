@@ -1,0 +1,65 @@
+/* 
+.show-weather-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin-top: 20px;
+  width: 35%;
+  background: rgb(77, 166, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(77, 166, 255, 1) 0%,
+    rgba(24, 138, 224, 1) 81%
+  );
+  color: white;
+  border-radius: 20px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.image {
+  height: 180px;
+  object-fit: contain;
+}
+
+.temp {
+  margin: 0;
+  font-size: 50px;
+}
+
+.name {
+  margin: 0;
+  font-size: 40px;
+}
+
+.info {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  align-items: center;
+}
+
+.info img {
+  height: 30px;
+}
+
+.extra {
+  display: flex;
+  font-size: 15px;
+  align-items: center;
+  gap: 7px;
+}
+
+.extra p {
+  text-align: start;
+  margin: 0;
+}
+
+.extra p:first-child {
+  font-size: 21px;
+  font-weight: bold;
+} */
